@@ -1,0 +1,1 @@
+{"version":1,"defects":{"FirstTest::testMultiplicationofTwoNumber":7,"FirstTest::test_multiplication_of_two_number":7,"FirstTest::multiplication_of_two_number":7},"times":{"FirstTest::testMultiplicationofTwoNumber":0.002,"FirstTest::test_multiplication_of_two_number":0.008,"FirstTest::multiplication_of_two_number":0.003}}

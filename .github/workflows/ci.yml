@@ -1,4 +1,4 @@
-name: Laravel
+name: Testplate CI/CD with Laravel
 
 on:
   push:
